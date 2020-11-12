@@ -1,0 +1,25 @@
+.shop {
+    display: flex;
+    flex-direction: column;
+}
+
+.name {
+    font-weight: bold;
+}
+
+.address {
+    border: 1px solid black;
+    margin: 0.5em;
+}
+
+.phone {
+    border: 1px solid black;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+}
+
+.links {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
